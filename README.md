@@ -20,20 +20,3 @@ streamlit run app.py
 
 ## 👨‍💻 Built By
 Khushal - Aspiring AI Engineer
-```
-
----
-
-### 2. Streamlit Cloud Pe Deploy Karo — Free!
-
-**1.** share.streamlit.io jao
-
-**2.** GitHub se login karo
-
-**3.** **"New app"** → `fake-news-detector` repo select karo
-
-**4.** `app.py` select karo → **"Deploy"**
-
-**5.** Live URL milega — poori duniya dekh sakegi! 🌍
-
----
