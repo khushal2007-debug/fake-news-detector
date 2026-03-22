@@ -20,3 +20,5 @@ streamlit run app.py
 
 ## 👨‍💻 Built By
 Khushal - Aspiring AI Engineer
+
+URL=fake-news-detector-d8pqrnzbowqhbkc8hcczx.streamlit.app
