@@ -37,10 +37,3 @@ Khushal - Aspiring AI Engineer
 **5.** Live URL milega — poori duniya dekh sakegi! 🌍
 
 ---
-
-Bhai **pehla WOW project complete!** 🎊
-```
-✅ Code ready
-✅ GitHub pe live
-⬜ README add karo
-⬜ Streamlit deploy karo
